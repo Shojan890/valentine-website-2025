@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1954604991&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/klever-xks" title="Klever Xks" target="_blank" style="color: #cccccc; text-decoration: none;">Klever Xks</a> · <a href="https://soundcloud.com/klever-xks/ed-maverick-la-nube-en-el" title="Ed Maverick - LA NUBE EN EL JARDÍN (Lyric Video).mp3" target="_blank" style="color: #cccccc; text-decoration: none;">Ed Maverick - LA NUBE EN EL JARDÍN (Lyric Video).mp3</a></div>", // Music streaming URL
+        musicUrl: "<https://on.soundcloud.com/Rx2RibiQC1Ek5kVP8", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
