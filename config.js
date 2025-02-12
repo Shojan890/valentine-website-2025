@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dfmbwz74n/video/upload/v1739336543/youtube_t9gbV6_CE0E_audio_lrrwsp.mp3", // Music streaming URL
+        musicUrl: "https://soundcloud.com/klever-xks/ed-maverick-la-nube-en-el?si=03518a454cab4592a9881d3f7267068a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing#t=25%3A06", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
